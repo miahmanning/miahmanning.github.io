@@ -66,9 +66,9 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Organization" # Person or Organization (defaults to Person)
+  name                   : "Alexander Lab" # If the user or organization name differs from the site's name
+  links: "https://alexanderlabwhoi.github.io/" # An array of links to social media profiles
 
 
 # Analytics
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/miahmanning"
+  github           : "miahmanning"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/miah-manning/"
-  orcid            : "https://orcid.org/0009-0004-3851-2965"
+  linkedin         : "miah-manning"
+  orcid            : "0009-0004-3851-2965"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
