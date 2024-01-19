@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Miah Manning is a Ph.D. student in Biological Oceanography in the [Massachusetts Institute of Technology](https://www.mit.edu/) (MIT) - [Woods Hole Oceanographic Institution](https://www.whoi.edu/) (WHOI) [Joint Program](https://mit.whoi.edu/) in Oceanography and Applied Ocean Science and Engineering. Miah is advised by [Dr. Harriet Alexander](https://alexanderlabwhoi.github.io/).
+Miah Manning (_she/her_) is a Ph.D. student in Biological Oceanography in the [Massachusetts Institute of Technology](https://www.mit.edu/) (MIT) - [Woods Hole Oceanographic Institution](https://www.whoi.edu/) (WHOI) [Joint Program](https://mit.whoi.edu/) in Oceanography and Applied Ocean Science and Engineering. Miah is advised by [Dr. Harriet Alexander](https://alexanderlabwhoi.github.io/).
 
 Understanding the Phycosphere
 ---------
-Climate and Phytoplankton Biogeography
+Climate Change & Phytoplankton Biogeography
 ---------
+
