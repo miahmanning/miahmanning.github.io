@@ -1,12 +1,10 @@
 ---
 layout: archive
 title: "Research Themes"
-permalink: /research-themes/
+permalink: /researchthemes/
 author_profile: true
 ---
 
-{% include base_path %}
 ## Phytoplankton Ecology
 ## Combining Laboratory and Computational Approaches
 ## Harmful Algal Blooms
-{% endfor %}
