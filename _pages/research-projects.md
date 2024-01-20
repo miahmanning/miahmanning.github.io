@@ -15,6 +15,7 @@ Past Projects
 --------------
 
 **Effectiveness of Bloom Mitigtation Strategies for *Karenia brevis***
+
 _[Mote Marine Laboratory & Aquarium](https://mote.org/), Advised by [Dr. Vince Lovko](https://mote.org/staff/member/vincent-lovko1)_
 
 <center><p align="center" style="max-width:60%;"><img src="../images/20220610_132524.jpg" /></p></center>
