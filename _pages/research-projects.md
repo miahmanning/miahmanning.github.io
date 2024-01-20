@@ -12,7 +12,7 @@ Current Projects
 
 _[Woods Hole Oceanographic Institution](https://www.whoi.edu/), Advised by [Dr. Harriet Alexander](https://alexanderlabwhoi.github.io)_
 
-<center><p align="center" style="max-width:60%;"><img src="../images/pseumu.png" /></p></center>
+<center><p align="center" style="max-width:60%;"><img src="../images/pseumu.jpg" /></p></center>
 
 One significant challenge arising at the crossroads of public health and ecosystem management is how harmful algal bloom (HAB) species will change in response to global ocean warming. The domoic acid (DA)-producing diatom genus _Pseudo-nitzschia_ is one of the most common HABs along the U.S. West Coast and has a growing presence in the Gulf of Maine (GOM). In the Monterey Bay in 2015 and the GOM in 2016, anomalously warm water masses triggered toxic _Pseudo-nitzschia_ blooms. Understanding the response of _Pseudo-nitzschia_ to a broad range of temperatures is crucial for comprehending HAB dynamics now and in the future. HAB species are often studied in isolation; however, in the natural environment, interactions between heterotrophic marine bacteria and phytoplankton can greatly influence biogeochemical cycling and microbial community structure and function. This interface, termed the phycosphere, is where bacteria and phytoplankton can exchange molecules. This exchange may make microbes more resilient to thermal stress. Though studies have investigated how ocean warming affects _Pseudo-nitzschia_ cell-physiology, there is limited research on how temperature impacts _Pseudo-nitzschia_ and bacteria interactions. The objective of this research is to understand how bacteria-phytoplankton interactions are impacted by thermal stress and how phycosphere composition and exchange of metabolites impacts a host's thermal tolerance and bloom dynamics across coastal and open ocean environments. This study will measure the thermal performance of axenic and xenic strains of _Pseudo-nitzschia spp._ and determine the impact of temperature on bacterial community composition and recruitment. Furthermore, we will isolate individual bacterial members of the _Pseudo-nitzschia spp._ phycosphere and run a series of pairwise bacteria-phytoplankton co-cultures to understand a synthetic bacterial community to elucidate complex host-microbiome interactions.
 
@@ -22,7 +22,7 @@ _[Woods Hole Oceanographic Institution](https://www.whoi.edu/), Advised by [Dr. 
 
 _Emiliania huxleyi_ (referred to after as _E. hux_) is a highly abundant and cosmopolitan coccolithophore with a variable pan genome. This genetic diversity may be a driving cause of the success of _E. hux_ in many different environments and niches. While many experiments have looked at the individual effects of nutrient and temperature limitation, looking at the synergistic effects of nutrients and temperature is understudied. This study is looking at two strains (914 and 874) of _E. hux_ at three temperature above the thermal optima in nitrate limited and nitrated replete conditions. The goal is to understand how co-limitation affects the associated bacterial community, the transcriptional repsonse of _E. hux_, the impact on osmolyte production, and intra-species differneces. This data will also be used to inform cell physiology models.
 
-<center><p align="center" style="max-width:60%;"><img src="../images/ehux.jpeg" /></p></center>
+<center><p align="center" style="max-width:60%;"><img src="../images/ehux.png" /></p></center>
 
 Past Projects
 --------------
