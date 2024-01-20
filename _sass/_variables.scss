@@ -49,7 +49,7 @@ $type-size-8                : 0.625em;  // ~10px
 
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 20%);
+$darker-gray                : mix(#000, $gray, 90%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
@@ -58,7 +58,7 @@ $background-color           : $darker-gray;
 $code-background-color      : $dark-gray;
 $code-background-color-dark : $gray;
 $text-color                 : $lighter-gray;
-$border-color               : $light-gray;
+$border-color               : $gray;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -72,7 +72,7 @@ $dribbble-color             : #ea4c89;
 $facebook-color             : #3b5998;
 $flickr-color               : #ff0084;
 $foursquare-color           : #0072b1;
-$github-color               : #171516;
+$github-color               : $lighter-gray;
 $google-plus-color          : #dd4b39;
 $instagram-color            : #517fa4;
 $lastfm-color               : #d51007;
