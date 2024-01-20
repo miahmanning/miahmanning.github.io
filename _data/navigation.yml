@@ -10,13 +10,10 @@ main:
     url: /publications-presentations/  
 
   - title: "Teaching & Outreach"
-    url: /teaching-outreach/    
-    
+    url: /teaching-outreach/
+  
   - title: "Photography"
     url: /photography/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Contact"
-    url: /contact/
