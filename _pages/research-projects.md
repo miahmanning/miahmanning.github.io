@@ -6,16 +6,18 @@ author_profile: true
 ---
 Current Projects
 --------------
-**Disentangleing the Role of the Phycosphere in the Thermal Range of Toxic _Pseudo-nitzschia spp._**
-**Exploring Synergistic Effects of Thermal Stress and Nitrogen Limitation in _Emiliania huxleyi_**
+
+**Disentangleing the Role of the Phycosphere in the Thermal Range of Toxic *Pseudo-nitzschia spp.***
+
+**Exploring Synergistic Effects of Thermal Stress and Nitrogen Limitation in *Emiliania huxleyi***
+
 Past Projects
 --------------
-**Effectiveness of Bloom Mitigtation Strategies for _Karenia brevis_**
+
+**Effectiveness of Bloom Mitigtation Strategies for *Karenia brevis***
 _[Mote Marine Laboratory & Aquarium](https://mote.org/), Advised by [Dr. Vince Lovko](https://mote.org/staff/member/vincent-lovko1)_
 
-<center><p align="center" style="max-width:60%;">
-  <img src="../images/20220610_132524.jpg" />
-</p></center>
+<center><p align="center" style="max-width:60%;"><img src="../images/20220610_132524.jpg" /></p></center>
 
 _Karenia brevis_ is a harmful algal bloom (HAB)-forming dinoflagellate that causes Florida red
 tides, resulting in fish kills, death of sea turtles and marine mammals, neurotoxic shellfish
@@ -40,8 +42,6 @@ observed. Notably, the Wilson strain was most impacted by luteolin while the oth
 not. Additionally, the photophysiological parameters of Wilson treated with curcumin showed
 recovery by 24 hours while all other strains did not.
 
-<center><p align="center" style="max-width:60%;">
-  <img src="../images/image000005.jpg" />
-</p></center>
+<center><p align="center" style="max-width:60%;"><img src="../images/image000005.jpg" /></p></center>
 
 **Phytoplankton Ecology on the West Antarctic Peninsula**
