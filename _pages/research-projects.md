@@ -22,7 +22,7 @@ _[Woods Hole Oceanographic Institution](https://www.whoi.edu/), Advised by [Dr. 
 
 _Emiliania huxleyi_ (referred to after as _E. hux_) is a highly abundant and cosmopolitan coccolithophore with a variable pan genome. This genetic diversity may be a driving cause of the success of _E. hux_ in many different environments and niches. While many experiments have looked at the individual effects of nutrient and temperature limitation, looking at the synergistic effects of nutrients and temperature is understudied. This study is looking at two strains (914 and 874) of _E. hux_ at three temperature above the thermal optima in nitrate limited and nitrated replete conditions. The goal is to understand how co-limitation affects the associated bacterial community, the transcriptional repsonse of _E. hux_, the impact on osmolyte production, and intra-species differneces. This data will also be used to inform cell physiology models.
 
-<center><p align="center" style="max-width:60%;"><img src="../images/ehux.png" /></p></center>
+<center><p align="center" style="max-width:60%;"><img src="../images/2023-12-10_11-20-45_050.jpg" /></p></center>
 
 Past Projects
 --------------
@@ -62,6 +62,6 @@ recovery by 24 hours while all other strains did not.
 
 _[Rutgers University Center for Ocean Observing Leadership](https://rucool.marine.rutgers.edu/), Advised by [Dr. Oscar Schofield](https://marine.rutgers.edu/team/oscar-schofield/)_
 
-<center><p align="center" style="max-width:60%;"><img src="../images/wap.png" /></p></center>
+<center><p align="center" style="max-width:80%;"><img src="../images/wap.png" /></p></center>
 
 The West Antarctic Peninsula (WAP) is a region experiencing rapid warming, with phytoplankton blooms supporting a productive food web. Light availability and environmental factors including mixed layer depth, wind speed, temperature, salinity, and zooplankton abundance influence phytoplankton size, composition, and productivity. This study examines the impact of biotic and abiotic factors on phytoplankton biomass and community composition at grid line 600 at grid station 40, a seafloor canyon off the coast of Anvers island, using data collected by the Palmer Long-Term Ecological Research program. Plant pigments were used to measure total plant biomass and taxa concentrations of diatoms, cryptophytes, and mixed flagellates. Shallower mixed layer depths (<25 meters) were associated with higher phytoplankton concentrations due to greater light availability. Results revealed diatoms as the most abundant, followed by cryptophytes and mixed flagellates respectively. Cryptophyte abundance was highest in the upper 30 meters, with more light and increased stratification. Warmer water temperatures (>0 °C) and lower salinities (~33 PSU) increased cryptophyte abundance, associated with glacial melt conditions and stronger stratification. Zooplankton and phytoplankton were negatively correlated, suggesting zooplankton grazing plays a significant role in phytoplankton abundance. The changing phytoplankton communities may lead to decreased potential primary production on the WAP.
