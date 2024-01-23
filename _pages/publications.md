@@ -18,5 +18,7 @@ Selected Presentations
 Selected Abstracts
 -------------------
 
-Fisher, B., Seidel, M., Waite, N., <u>Manning, M.L.</u> , Cappola, M., Dittmar, T., Schofield, O., and Henley, S.F. The role of phytoplankton communities in determining the molecular composition of dissolved organic matter along the west Antarctic Peninsula. Ocean Sciences Meeting (OSM), New Orleans, LA, February 2024.
+Fisher, B., Seidel, M., Waite, N., <u>Manning, M.</u> , Cappola, M., Dittmar, T., Schofield, O., and Henley, S.F. The role of phytoplankton communities in determining the molecular composition of dissolved organic matter along the west Antarctic Peninsula. Ocean Sciences Meeting (OSM), New Orleans, LA, February 2024.
+
+Taenzer, Lina, Taenzer, Lukas, Lane, K., Dever, M., Brooks, F., Catapano, T., Gregory, M., Hickman, K.J., Hummel, N., Knight, J., Kramer, K., Kuhl, S., <u>Manning, M.</u>, Messenger, S., Motz, A., Mule, E., Nagao, H., Stemmer, F., Wilcox, G., and Shank, T.M. Updated Snapshot of the Physical and Biogeochemical Conditions Across the Rapidly Warming US Northeast Continental Shelf and Shelfbreak. Ocean Sciences Meeting (OSM), New Orleans, LA, February 2024.
 
