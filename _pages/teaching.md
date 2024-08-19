@@ -8,7 +8,7 @@ Teaching & Outreach
 
 **Woods Hole Science Stroll**
 
-<center><p align="center" style="max-width:50%;"><img src="../images/IMG_2492.jpg" /></p></center>
+<center><p align="center" style="max-width:70%;"><img src="../images/IMG_2492.jpg" /></p></center>
 
 Each summer, WHOI and the other science institution of Woods Hole participate in the Woods hole Science Stroll. The Science Stroll is a showcase to the public of the science and technology being developed in Woods Hole and beyond. For the 2024 Science Stroll Miah helped the Broader Impacts Group (BIG) at WHOI to promote the educational resources offered at WHOI and the outreach work done by graduate students in the Joint program. This year's BIG booth presented the kind of outreach activities BIG brings to classrooms and fairs to engage elementary school students in STEM. In this year's activity, children could build candy DNA to learm about what is DNA, its structure, and why its important for biology (and also have a tasty treat!).
 
@@ -18,11 +18,11 @@ Each summer, WHOI and the other science institution of Woods Hole participate in
 
 In the spring of 2024, Miah took a course offered at WHOI called Communicating Ocean Science, where Joint Program students are schooled in the art of teacing and learning. Each student eaches two lessons, one for a local 4th grade class and one for a undergraduate class at a local community college. The class emphasized the importance of active learning, formative assessment, and creating an inclusive class environment for all level of education. Miah's 4th grade lesson centered on teaching students how salinity and temperature affect the density of water. Miah used colorfully dyed water and called on many volunteers to engage her students. She also paired them off into smaller groups for a more challenning hands-on ice activity to foster collaboration and critical thinking between students.
 
-<center><p align="center" style="max-width:50%;"><img src="../images/IMG_5310.JPG" /></p></center>
+<center><p align="center" style="max-width:70%;"><img src="../images/IMG_5310.JPG" /></p></center>
 
 For Miah's undergraduate class, "Survey of Biology", she taught a lesson on marine microbial diversity. The lecture started off with a warm-up quiz with information they learned previously in the course, as well as some new suprising facts. The lecture set-up information needed to do the group activity. Miah also worked through an example to show the type of thinking students should be considering when approaching their activity. The group activity was a real-world data driven exercise looking at chlorophyll concentrations around the world and at different times of the year. 
 
-<center><p align="center" style="max-width:50%;"><img src="../images/IMG_5331.JPG" /></p></center>
+<center><p align="center" style="max-width:70%;"><img src="../images/IMG_5331.JPG" /></p></center>
 
 **Zephyr Marine**
 
@@ -47,7 +47,7 @@ In September 2023, Miah became a mentor for the [Joint Program Applicant Support
 
 **WHOI Graduate Student Union (GSU) Bargaining Committee (BC)**
 
-<center><p align="center" style="max-width:50%;"><img src="../images/WHOIGradUnionLogo.png" /></p></center>
+<center><p align="center" style="max-width:30%;"><img src="../images/WHOIGradUnionLogo.png" /></p></center>
 
 On July 19th, 2024, the WHOI GSU was officially recognized and the BC is actively negotiating with WHOI for the first WHOI GSU contract. Miah is an at-large representative and serves on a committee of 8 fellow WHOI graduate students representating all 5 WHOI departments and 3 at-large repreentatives. Miah believes that having a student union at WHOI is critical for codifying the part of the mIT-WHOI Joint Program that students love and having actionable tactics to change what students want to see changed. The WHOI GSU protects the rights and safety Joint Program students, creating an environment where students can speak honestly and feel supported by their peers and by our institution.
 
