@@ -43,6 +43,8 @@ As of September 2023, Miah became a mentor for the [Geoscience Education Mentors
 
 **Joint Program Applicant Support & Knowledgebase (JP-ASK)**
 
+<center><p align="center" style="max-width:70%;"><img src="../images/jp-ask.png" /></p></center>
+
 In September 2023, Miah became a mentor for the [Joint Program Applicant Support & Knowledgebase](https://mit.whoi.edu/admissions/apply/jp-applicant-support-knowledgebase-jp-ask/) (JP-ASK) progam at WHOI. This program pairs current graduate students and prospective students to help prospective students with the application process as well as offer insight to life as a graduate student at WHOI. Miah has mentored two students through this program by helping them find potential advisors ad connecting them with members of the lab of interest, reviewing application material, finding external funding oppurtunities, and chatting about the pros and cons of the MIT-WHOI Joint Program. Since Miah did not know about this program when she applied to WHOI, she wants to particpate and spread the word about this amazing resource for prospective students! As of July 2024, Miah also serves on the student board for JP-ASK, taking on a larger role in organizing the program.
 
 **WHOI Graduate Student Union (GSU) Bargaining Committee (BC)**
