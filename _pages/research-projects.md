@@ -27,6 +27,13 @@ _Gephyrocapsa huxleyi_ (referred to after as _G. hux_) is a highly abundant and 
 Past Projects
 --------------
 
+**Characterizing a New Strain of _Chromobacterium vaccinii_ and its Microbial Interactons**
+
+_[Marine Biological Laboratory](https://www.mbl.edu/), Microbial Diveristy Advanced Training Course, Course Directors [Dr. John Spear](https://cee.mines.edu/project/spear-john/) and [Dr. Scott Dawson](https://biology.ucdavis.edu/people/scott-dawson)_
+
+
+Since the first purification of violacein from _Chromobacterium violaceum_ by Lasseur and Girardey in 1926, this dark-purple pigment has captured the attention of scientists for nearly a century. Violacein is a bisindole pigment produced by a wide variety of bacteria including _Alteromonas_, _Janthinobacterium_, _Pseudoalteromonas_, _Duganella_, and _Collimonas_ in a broad range of environments such as deep seas, coastal and freshwater environments, soils, within glacial ice, on the leaves of white clover, and the skin of amphibians. The most well-studied genus is _Chromobacterium_. In 1945, Lichstein and Van de San discovered the antibiotic properties of extracted violacein from _Chromobacterium_ violacein on both gram-positive and gram-negative bacteria, as well as molds. A study on _Staphylococcus aureus_ shows that this antibacterial property is due in part to the lipophilic nature of violacein. Violacein causes membrane integrity disruption, with increased potassium ion and ATP leakage. Loss of intracellular contents and osmotic balance may then trigger cell death. In the last two decades, violacein has emerged into the spotlight for its pharmacological potential for its biocidal properties including anticancer, antibacterial, antifungal, trypanocidal, antileishmanial, anti-nematode, antiulcerogenic, immunomodulatory and antiviral. Therefore, the isolation of _Chromobacterium vaccinii_ from School Street Swamp, Woods Hole, MA, a swamp characterized by many types of metal metabolism, was an interesting finding worth investigating. The findings of this pilot project detail the phenotypic and genomic characterization of an isolate of _Chromobacterium vaccinii_ and its microbial interactions with bacteria within and outside its natural environment.
+
 **Effectiveness of Bloom Mitigtation Strategies for *Karenia brevis***
 
 _[Mote Marine Laboratory & Aquarium](https://mote.org/), Advised by [Dr. Vince Lovko](https://mote.org/staff/member/vincent-lovko1)_
