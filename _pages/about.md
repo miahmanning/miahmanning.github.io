@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Miah Manning (_she/her_) is a Ph.D. student in Biological Oceanography in the Massachusetts Institute of Technology (MIT) - Woods Hole Oceanographic Institution (WHOI) [Joint Program in Oceanography and Applied Ocean Science and Engineering](https://mit.whoi.edu/). Miah's research combines wet lab and computational techniques, focusing on marine phytoplankton ecology. She is advised by [Dr. Harriet Alexander](https://alexanderlabwhoi.github.io/).
+Miah Manning (_she/her_) is a Ph.D. candidate in Biological Oceanography in the Massachusetts Institute of Technology (MIT) - Woods Hole Oceanographic Institution (WHOI) [Joint Program in Oceanography and Applied Ocean Science and Engineering](https://mit.whoi.edu/). Miah's research combines wet lab and computational techniques, focusing on marine phytoplankton ecology. She is advised by [Dr. Harriet Alexander](https://alexanderlabwhoi.github.io/).
 
 Marine Microbial Ecology
 ---------
