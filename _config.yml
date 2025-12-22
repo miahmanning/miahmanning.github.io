@@ -86,7 +86,7 @@ author:
   location         : "Woods Hole, M.A., U.S.A."
   employer         : "MIT-WHOI Joint Program"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "http://scholar.google.com/citations?user=jV--vysAAAAJ&hl=en&oi=ao"
   email            : "miahm@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "miaplush"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
